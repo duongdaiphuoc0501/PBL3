@@ -1,0 +1,15 @@
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.csprojAssemblyReference.cache
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.Properties.Resources.resources
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.csproj.GenerateResource.cache
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.csproj.CoreCompileInputs.cache
+E:\c#\PBL3_Client\PBL3_Client\bin\Debug\PBL3_Client.exe.config
+E:\c#\PBL3_Client\PBL3_Client\bin\Debug\PBL3_Client.exe
+E:\c#\PBL3_Client\PBL3_Client\bin\Debug\PBL3_Client.pdb
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.exe
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.pdb
+E:\c#\PBL3_Client\PBL3_Client\bin\Debug\Newtonsoft.Json.dll
+E:\c#\PBL3_Client\PBL3_Client\bin\Debug\Newtonsoft.Json.xml
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.csproj.CopyComplete
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.GUI.Form1.resources
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.GUI.UserControlDVKH.resources
+E:\c#\PBL3_Client\PBL3_Client\obj\Debug\PBL3_Client.GUI.DANGNHAP.resources
